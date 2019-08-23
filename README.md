@@ -19,4 +19,4 @@ java -jar domino-v1.2.jar
 
 * Output of the program is a graph presented by [the graph description language](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
 
-* The Graphviz program can be used to visualize this DOT language.
+* The [Graph Visualization Software](https://www.graphviz.org) can be used to visualize this language.
