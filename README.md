@@ -17,6 +17,6 @@ java -jar domino-v1.2.jar
 
 ## Remarks
 
-* Output of the program is a graph presented by [the graph description language](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
+* Output of the program is a graph presented by [the graph description language](https://en.wikipedia.org/wiki/DOT_(graph_description_language)).
 
-* The [Graph Visualization Software](https://www.graphviz.org) can be used to visualize this language.
+* The [Graph Visualization Software](https://www.graphviz.org) can be used to visualize the graph description.
