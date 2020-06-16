@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This programe allows us to build a domino graph for a finite language.
+This program allows us to build a domino graph for a finite language.
 
 ## Run the program
 
