@@ -44,7 +44,7 @@ public class Main {
 		// Compute dominos graph
 		DirectedGraph graph = computeDominosGraph.compute(L, codeL);
 		// Exporting
-		exporter.exportDOT(graph, "myFile.dot");
+		exporter.exportDOT(graph, "graph.dot");
 	}
 
 
